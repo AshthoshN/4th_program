@@ -9,7 +9,7 @@ Subject: Advanced Java with J2EE (BCS405A)
 [Output](4a.png)  
 
 🔹 Program 4b - Button Event Handling (Srilanka / India)  
-[Program](src/swing/fournb.java)  
+[Program](src/swing/fourb.java)  
 [Output](4b.png)  
 
 🔹 Program 4c - Button Event Handling with Images (Digital Clock / Hour Glass)  
